@@ -1,2 +1,16 @@
-# OptimusAutomate_PasswordStrengthAnalyzer
-A Python-based Password Strength Analyzer with password scoring, entropy calculation, common password detection, and secure password generation. Developed for the Optimus Automate Cyber Security Virtual Internship.
+
+# Advanced Password Strength Analyzer
+
+Features:
+- Password strength scoring
+- Entropy estimation
+- Common password detection
+- Sequential/repeated pattern detection
+- Strong password generator
+- Tkinter GUI
+
+Run:
+
+```bash
+python app.py
+```
