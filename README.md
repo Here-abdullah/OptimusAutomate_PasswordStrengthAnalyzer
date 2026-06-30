@@ -1,4 +1,4 @@
-# 🔐 Password Strength Analyzer
+# Password Strength Analyzer
 
 A professional Python-based Password Strength Analyzer developed as part of the Optimus Automate Virtual Internship Program.
 
@@ -25,21 +25,23 @@ A professional Python-based Password Strength Analyzer developed as part of the 
 ## Installation
 
 ```bash
-git clone https://github.com/YourUsername/OptimusAutomate_PasswordStrengthAnalyzer.git
+git clone https://github.com/Here-abdullah/OptimusAutomate_PasswordStrengthAnalyzer.git
+
 cd OptimusAutomate_PasswordStrengthAnalyzer
+
 python app.py
 ```
 
-## Screenshot
-
-(Add your application screenshot here)
 
 ## Project Structure
 
 ```
-app.py
-README.md
-requirements.txt
+OptimusAutomate_PasswordStrengthAnalyzer/
+│── app.py
+│── README.md
+│── requirements.txt
+│── LICENSE
+│── .gitignore
 ```
 
 ## Learning Outcomes
@@ -56,3 +58,6 @@ Abdullah Amin
 Virtual Internship Program
 
 Optimus Automate
+
+## ⚠ Disclaimer
+This project is developed for educational purposes as part of the Optimus Automate Cyber Security Virtual Internship.
